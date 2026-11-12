@@ -16,7 +16,7 @@ AI/ML & Data Science Engineer with 5+ years of experience building data-intensiv
 **Selected AI/ML projects**
 - [GenAI RAG Knowledge Assistant](https://github.com/eklavyachamp28/genai-rag-knowledge-assistant) — document ingestion, chunking, TF-IDF retrieval, source citations, FastAPI and Streamlit.
 - [Credit Card Fraud Detection ML](https://github.com/eklavyachamp28/credit-card-fraud-detection-ml) — imbalanced classification, class weighting, PR-AUC, threshold-based evaluation and FastAPI inference.
-- [Healthcare Claims Intelligence](https://github.com/eklavyachamp28/1.-healthcare-claims-intelligence) — synthetic claims NLP classification, TF-IDF word/character features, confidence-based human review and FastAPI.
+- [Healthcare Claims Intelligence](https://github.com/eklavyachamp28/healthcare-claims-intelligence) — synthetic claims NLP classification, TF-IDF word/character features, confidence-based human review and FastAPI.
 
 **Other engineering projects**
 - [business-onboarding-dashboard](https://github.com/eklavyachamp28/business-onboarding-dashboard) — business-banking onboarding workflow.
