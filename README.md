@@ -14,7 +14,7 @@ Based in Gurugram, Haryana, India. 5+ years of experience building data-intensiv
 - [GenAI RAG Knowledge Assistant](https://github.com/eklavyachamp28/genai-rag-knowledge-assistant) — LangChain, LangGraph, Hugging Face embeddings, Chroma, cited retrieval and ranked retrieval evaluation.
 - [Credit Card Fraud Detection ML](https://github.com/eklavyachamp28/credit-card-fraud-detection-ml) — imbalanced classification, FastAPI inference, probabilistic evaluation and MLflow / Weights & Biases tracking.
 - [Healthcare Claims Intelligence](https://github.com/eklavyachamp28/healthcare-claims-intelligence) — TF-IDF and transformer-based NLP classification with uncertainty-aware review routing.
-- [Advanced ML & Statistical Modeling](https://github.com/eklavyachamp28/credit-card-fraud-detection-ml/tree/main/advanced-ml-statistical-modeling) — XGBoost, Optuna, SHAP, bootstrap confidence intervals, permutation testing and MLflow.
+- [Advanced ML & Statistical Modeling](https://github.com/eklavyachamp28/advanced-ml-statistical-modeling) — XGBoost, Optuna, SHAP, bootstrap confidence intervals, permutation testing and MLflow.
 
 ### Engineering & Delivery
 FastAPI · Docker · Kubernetes · AWS · Azure · Apache Kafka · CI/CD · distributed systems · Java and Spring Boot
